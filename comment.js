@@ -1,1 +1,1 @@
-console.log("Comment was added");
+console.log("сomment was added");
